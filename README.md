@@ -7,5 +7,7 @@ O estudo tem por objetivo encontrar regiões do Brasil para recomendar o lançam
 ### 1.1 Problema de Negócio
 Para isso será traçado um público alvo com relação a faixa etária, perfil demográfico, geográfico e econômico e dessa forma haverá a possibilidade de identificar quais cidades ou regiões estariam aptas a receber o produto.
 
+Link do video de apresentação: https://youtu.be/10OA3SJIqPA
+
 O dataset usado é disponibilizado pelo Kaggle em: https://www.kaggle.com/datasets/crisparada/brazilian-cities?resource=download
 Esse é um projeto aplicado realizado por alunos da 2a Etapa em Ciência de Dados da Universidade Presbiteriana Mackenzie
